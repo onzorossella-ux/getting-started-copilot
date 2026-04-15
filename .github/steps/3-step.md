@@ -131,7 +131,7 @@ If you don't get the desired results, you can try other models or provide follow
    >
    > ```prompt
    > I've noticed there seems to be a bug.
-   > When a participant is registered, the page must be refreshed to see the change on the activity.
+   >    kill -9 {PID}
    > ```
 
 1. When Copilot is finished, inspect the results and validate the registration flow on the website.
